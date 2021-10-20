@@ -1,6 +1,7 @@
 ## babyDevs
 <h1>:baby:</h1>
-> Esse Links Úteis e repositórios
+> Esse repositório e colaborativo, consiste em auxiliar o jovem programador com Links Úteis e repositórios
+> Estarei aceitando dicas através dos comentários.
 
 ## Link Úteis
 https://github.com/<br>
