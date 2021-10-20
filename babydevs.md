@@ -14,17 +14,17 @@ https://www.udemy.com/<br>
 https://digitalinnovation.one/<br>
 https://www.alura.com.br/<br>
 
-# Dev
-## Front end
+## Dev
+### Front end
 https://languagetool.org/pt-BR<br>
 
-## Back end
+### Back end
 
 
-# Sec
+## Sec
 
 
-# Ops
+## Ops
 
 
 # Repositórios úteis
