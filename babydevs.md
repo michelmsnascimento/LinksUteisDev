@@ -31,3 +31,19 @@ https://languagetool.org/pt-BR<br>
 # Repositórios úteis
 ## GitHub
 :wink:**Emogis:** https://gist.github.com/rxaviers/7360908#file-gistfile1-md
+
+
+
+### …or create a new repository on the command line
+```echo "# teste" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/michelmsnascimento/teste.git
+git push -u origin main```
+
+### …or push an existing repository from the command line
+```git remote add origin https://github.com/michelmsnascimento/teste.git
+git branch -M main
+git push -u origin main```
