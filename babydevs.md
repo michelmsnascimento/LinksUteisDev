@@ -35,7 +35,8 @@ https://languagetool.org/pt-BR<br>
 
 
 ### …or create a new repository on the command line
-```echo "# teste" >> README.md
+```
+echo "# teste" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
